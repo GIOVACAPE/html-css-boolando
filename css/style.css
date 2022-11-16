@@ -37,7 +37,8 @@ header {
     color: white;
     display: inline-block;
     float: right;
-    
+    line-height: 42px;
+    margin-right: 200px;
     
     
     
@@ -51,7 +52,7 @@ header {
     width: 80px;
 }
 nav {
-    margin: 0 15vw;
+    margin: 0 19vw;
     line-height: 42px;
 }
 
