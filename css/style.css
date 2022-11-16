@@ -19,8 +19,9 @@ header {
 }
 
 #header-container {
+    width: 1200px;
     height: 100%;
-    text-align: left;
+    
 }
     
 
@@ -29,11 +30,15 @@ header {
 #logo, #ICON , nav {
     display: inline-block;
     vertical-align: middle;
+    float: left;
 }
 
 #ICON{
     color: white;
     display: inline-block;
+    float: right;
+    
+    
     
     
 }
@@ -91,7 +96,7 @@ div > img {
     position: absolute;
     top: 1em;
     right: 0;
-    background-color: #ffffff;
+    background-color: #cfcfcf;
     padding: .1em .4em;
 }
 
