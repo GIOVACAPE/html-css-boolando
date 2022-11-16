@@ -95,14 +95,6 @@ div > img {
     padding: .1em .4em;
 }
 
-.hover-heart {
-    color: red; 
-    display: none;
-}
-
-.item:hover .hover-heart {
-    display: block;
-}
 
 .bg-settings {
     font-weight: bold;
